@@ -1,0 +1,18 @@
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Client.resources
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\logo\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Client.resources
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LOGO\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
